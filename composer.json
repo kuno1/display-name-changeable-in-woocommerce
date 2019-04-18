@@ -1,0 +1,16 @@
+{
+    "name": "kuno1/display-name-changeable-in-woocommerce",
+    "type": "wordpress-library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "fumikito",
+            "email": "guy@hametuha.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "files": [ "./display-name-changeable-in-woocommerce.php" ]
+    }
+}
